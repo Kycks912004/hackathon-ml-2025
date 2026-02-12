@@ -1,0 +1,4 @@
+git pull
+git add titanic_analysis_votre_nom.ipynb
+git commit -m "Update titanic analysis notebook"
+git push
