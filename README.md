@@ -3,6 +3,35 @@
 [![Solution Kylian](https://img.shields.io/badge/Python-solution__kylian.py%20(CatBoost)-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Kycks912004/hackathon-ml-2025/blob/main/hackathon-ml-2025-groupe-16-cargo-main/solution_kylian.py)
 [![GitHub](https://img.shields.io/badge/GitHub-Code%20Source-181717?style=for-the-badge&logo=github)](https://github.com/Kycks912004/hackathon-ml-2025)
 
+## 🏆 Résultats
+
+| Métrique | Score |
+|----------|-------|
+| **Meilleure précision** | **80.68 %** |
+| Algorithme | CatBoostClassifier |
+| Split | 84% train / 16% validation |
+| Seed | 42 |
+
+**Soumission finale** — extrait de `soumission_finale.csv` :
+
+| PassengerId | Survived |
+|------------|----------|
+| 892 | 0 |
+| 893 | 0 |
+| 894 | 0 |
+| 895 | 0 |
+| 896 | 1 |
+| … | … |
+
+**Features engineering utilisées :**
+- Extraction du titre (`Mr`, `Miss`, `Rare`…)
+- Indicateur `Est_enfant` (Titre + Age < 18)
+- Nb de mots dans le nom
+- Première lettre de la cabine
+- Remplacement des NaN (médiane / catégorie `X`)
+
+---
+
 Welcome to the Titanic Survival Prediction challenge! This is a classic data science problem and a perfect way to practice your skills in data exploration, feature engineering, and machine learning.
 
 ## The Challenge
