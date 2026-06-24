@@ -1,6 +1,6 @@
 # 🚢 Hackathon ML — Titanic Survival Prediction
 
-[![Voir mon Notebook](https://img.shields.io/badge/Jupyter-Voir%20mon%20Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)](https://nbviewer.org/github/Kycks912004/hackathon-ml-2025/blob/main/hackathon-ml-2025-groupe-16-cargo-main/titanic_analysis_kylian.ipynb)
+[![Voir mon Notebook](https://img.shields.io/badge/Jupyter-Voir%20mon%20Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/Kycks912004/hackathon-ml-2025/blob/main/hackathon-ml-2025-groupe-16-cargo-main/titanic_analysis_kylian.ipynb)
 [![GitHub](https://img.shields.io/badge/GitHub-Code%20Source-181717?style=for-the-badge&logo=github)](https://github.com/Kycks912004/hackathon-ml-2025)
 
 Welcome to the Titanic Survival Prediction challenge! This is a classic data science problem and a perfect way to practice your skills in data exploration, feature engineering, and machine learning.
