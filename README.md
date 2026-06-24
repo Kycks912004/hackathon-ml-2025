@@ -1,6 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/guIftrs1)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=21087737&assignment_repo_type=AssignmentRepo)
-# Titanic: Predicting Survival - Hackathon Challenge 🚢
+# 🚢 Hackathon ML — Titanic Survival Prediction
+
+[![Voir mon Notebook](https://img.shields.io/badge/Jupyter-Voir%20mon%20Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)](https://nbviewer.org/github/Kycks912004/hackathon-ml-2025/blob/main/hackathon-ml-2025-groupe-16-cargo-main/titanic_analysis_kylian.ipynb)
+[![GitHub](https://img.shields.io/badge/GitHub-Code%20Source-181717?style=for-the-badge&logo=github)](https://github.com/Kycks912004/hackathon-ml-2025)
 
 Welcome to the Titanic Survival Prediction challenge! This is a classic data science problem and a perfect way to practice your skills in data exploration, feature engineering, and machine learning.
 
